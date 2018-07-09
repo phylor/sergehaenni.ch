@@ -1,0 +1,56 @@
+body {
+  background-color: white;
+  color: #333;
+  font-family: "Raleway", sans-serif;
+  text-align: center;
+  padding: 1rem;
+  margin-top: 20vh; }
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Josefin Sans", sans-serif; }
+
+a {
+  color: rgba(0, 0, 0, 0.7); }
+  a:focus, a:hover {
+    color: rgba(0, 0, 0, 0.6); }
+
+p {
+  text-align: left;
+  max-width: 30rem;
+  margin: auto;
+  margin-bottom: 2rem; }
+
+.text-center {
+  text-align: center; }
+
+img {
+  max-width: 100%; }
+
+.middleman-logo {
+  margin-bottom: 1rem;
+  width: 10rem; }
+
+.portrait {
+  border-radius: 50%;
+  border: 1px solid #979797;
+  max-width: 5rem; }
+
+.lead {
+  font-family: "Lora", serif;
+  font-weight: 700;
+  font-size: 4rem;
+  line-height: 4.5rem;
+  text-align: left;
+  width: 30rem;
+  margin: auto;
+  margin-bottom: 3rem; }
+  .lead .second {
+    padding-left: 5rem; }
+
+.margin-huge {
+  margin: 18vh 1rem; }
